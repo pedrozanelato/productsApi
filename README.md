@@ -2,7 +2,7 @@
 
 Uma API CRUD para Produtos em Laravel
 
-Documentação: [API Products](https://documenter.getpostman.com/view/17224712/2sAXjF7uDR#ebc91014-cc96-4907-8d27-1bc112cd655a)
+Documentação: [API Products](https://documenter.getpostman.com/view/17224712/2sAXjF7uNG)
 
 Postman: [Collection](https://www.postman.com/myapisdev/workspace/api-s-dev/collection/17224712-85874a7c-e078-432c-b8d8-27a59635ac77?action=share&source=copy-link&creator=17224712)
 ## Configuração
