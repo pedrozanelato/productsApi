@@ -39,5 +39,13 @@ Feito isso, execute o seguinte comando também na raiz do projeto. Ele é respon
 ```xml
 php artisan db:seed --class=UsersTableSeeder
 ```
+Para testes, um usuário padrão será criado e poderá ser usado para autenticação. 
+
+```json
+{
+    "email": "user@gmail.com",
+    "password": "user123"
+}
+```
 
 ### Pronto! Seu ambiente e projeto está totalmente configurado. Agora, leia a documentação para consumir os Endpoints da API.
