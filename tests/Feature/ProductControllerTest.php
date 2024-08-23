@@ -113,7 +113,7 @@ class ProductControllerTest extends TestCase
         $products = Product::factory()->count(3)->create();
 
         $response = $this->actingAs($this->user, 'sanctum')
-            ->getJson('/api/products');
+            ->getJson('/api/products/list');
 
         $response->assertStatus(200)
             ->assertJsonStructure([
